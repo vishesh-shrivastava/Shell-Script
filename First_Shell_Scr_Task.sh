@@ -2,12 +2,14 @@
 mkdir mainDir
 cd mainDir
 touch first.txt second.txt third.txt
-echo   "Hi my name is Vishesh 
+echo   
+"	Hi my name is Vishesh 
 	What is your name 
        	How are you? 
 	What yo do for living" >> first.txt
 
-echo 	"There was a boy named John
+echo 	
+"	There was a boy named John
 	who was so lazy he couldn’t even change his clothes.
        	One day, he saw the apple
        	tree in their yard was full of fruits.
@@ -18,10 +20,12 @@ echo 	"There was a boy named John
        	but the apples never fell.
 	Once, there was a hungry fox who stumbled upon a vineyard.
        	After seeing the round, juicy grapes hanging in a bunch,
-       	the fox drooled.But no matter how high he jumped, he couldn’t reach for 	it.So he told himself that it was probably sour and left.
+       	the fox drooled.But no matter how high he jumped, he couldn’t reach for it.
+	So he told himself that it was probably sour and left.
        	That night, he had to sleep on an empty stomach ." >> second.txt
 
-echo 	"Bash is a Unix shell and command language written by
+echo 	
+"	Bash is a Unix shell and command language written by
 	Brian Fox for the GNU Project as a free software replacement	
        	for the Bourne shell.[15][16]
 	The shell's name is an acronym for Bourne Again Shell,
